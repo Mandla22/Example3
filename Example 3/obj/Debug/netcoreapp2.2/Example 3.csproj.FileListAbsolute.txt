@@ -1,0 +1,14 @@
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\bin\Debug\netcoreapp2.2\Example 3.deps.json
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\bin\Debug\netcoreapp2.2\Example 3.runtimeconfig.json
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\bin\Debug\netcoreapp2.2\Example 3.runtimeconfig.dev.json
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\bin\Debug\netcoreapp2.2\Example 3.dll
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\bin\Debug\netcoreapp2.2\Example 3.pdb
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\obj\Debug\netcoreapp2.2\Example 3.csproj.CoreCompileInputs.cache
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\obj\Debug\netcoreapp2.2\Example 3.RazorAssemblyInfo.cache
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\obj\Debug\netcoreapp2.2\Example 3.RazorAssemblyInfo.cs
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\obj\Debug\netcoreapp2.2\Example 3.AssemblyInfoInputs.cache
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\obj\Debug\netcoreapp2.2\Example 3.AssemblyInfo.cs
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\obj\Debug\netcoreapp2.2\Example 3.RazorTargetAssemblyInfo.cache
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\obj\Debug\netcoreapp2.2\Example 3.dll
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\obj\Debug\netcoreapp2.2\Example 3.pdb
+C:\Users\Mandla Masombuka\source\repos\Example 3\Example 3\obj\Debug\netcoreapp2.2\Example 3.csprojAssemblyReference.cache
