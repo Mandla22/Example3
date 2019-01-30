@@ -1,0 +1,17 @@
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\ControllerTests.deps.json
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\ControllerTests.runtimeconfig.json
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\ControllerTests.runtimeconfig.dev.json
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\ControllerTests.dll
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\ControllerTests.pdb
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\obj\Debug\netcoreapp2.2\ControllerTests.csprojAssemblyReference.cache
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\obj\Debug\netcoreapp2.2\ControllerTests.csproj.CoreCompileInputs.cache
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\obj\Debug\netcoreapp2.2\ControllerTests.AssemblyInfoInputs.cache
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\obj\Debug\netcoreapp2.2\ControllerTests.AssemblyInfo.cs
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\obj\Debug\netcoreapp2.2\ControllerTests.dll
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\obj\Debug\netcoreapp2.2\ControllerTests.pdb
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\Example 3.dll
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\bin\Debug\netcoreapp2.2\Example 3.pdb
+C:\Users\Mandla Masombuka\source\repos\Example 3\ControllerTests\obj\Debug\netcoreapp2.2\ControllerTests.csproj.CopyComplete
